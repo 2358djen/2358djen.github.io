@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![2358djen](https://img.shields.io/badge/2358djen-github-blue?logo=github)](https://github.com/2358djen)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Mres Pattern Recognition And Intelligent Systems, at School of Advanced Technology, Xi'an Jiaotong-Liverpool University(XJTLU), China.
 
 #### Email
-sli[at]cumt.edu.cn
+Wenhao.Sun24@student.xjtlu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Mres Pattern Recognition And Intelligent Systems, Xi'an Jiaotong-Liverpool University, 2024—2026 (expected).\
+B.E., Electronic Information Science and Technology, Henan University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Machine Learning, Embedded System
 

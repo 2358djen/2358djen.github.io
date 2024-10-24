@@ -1,9 +1,7 @@
-- First-prize Academic Scholarship, 2023.
+- “Third Prize” in the College Student Innovation and Entrepreneurship Competition, 2023.
 
-- Freshman Academic Scholarship, 2022.
+- “Junior FPGA Engineer” at Intel FPGA China Innovation Center, 2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Three-good Student, 2022-2023.
 
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- “Second Prize” in the Electronic Design Competition, 2022.
